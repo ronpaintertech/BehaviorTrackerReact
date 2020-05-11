@@ -1,3 +1,7 @@
+## Behavior Tracker React Code
+
+This respository is the source code for my Behavior Tracker Application
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
